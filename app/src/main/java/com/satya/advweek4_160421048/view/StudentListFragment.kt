@@ -61,8 +61,6 @@ class StudentListFragment : Fragment() {
                 binding.txtError.visibility = View.GONE
             }
         })
-
-
     }
 
 }
